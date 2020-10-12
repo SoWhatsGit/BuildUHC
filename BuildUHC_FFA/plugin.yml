@@ -1,0 +1,5 @@
+main: me.sowhatsminecraft.BuildUHC.main.FFA
+name: BuildUHC_FFA
+version: 0.1
+author: SoWhatsMinecraft
+description: Test to see if "rand" works properly
